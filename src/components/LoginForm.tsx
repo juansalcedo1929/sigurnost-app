@@ -48,7 +48,7 @@ export default function LoginForm({ onLogin }: LoginFormProps) {
               marginTop: '20px'
             }}>
               <img 
-                src="/logo.png" 
+                src="/images/logo.png"
                 alt="Sigurnost Logo"
                 style={{ 
                   width: '150px', 
